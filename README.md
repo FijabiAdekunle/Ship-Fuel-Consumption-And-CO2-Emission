@@ -1,5 +1,5 @@
 # Ship-Fuel-Consumption-And-CO2-Emission
-**Analysis of Fuel Consumption & CO2 Emissions of 4 ship types on Nigerian water ways**
+ **Analysis of Fuel Consumption & CO2 Emissions of 4 ship types on Nigerian water ways**
 
 ## Project Overview
 This project explores the fuel consumption and CO2 emissions of different types of ships operating in Nigerian waterways. It leverages a generated dataset and analytical methods to derive actionable insights into the fuel usage patterns and environmental impact of various ship types.
@@ -50,4 +50,27 @@ ________________________________________
 - Jupyter Notebook
 - Libraries: Pandas, NumPy, Matplotlib, Seaborn, Statsmodels
 ----------------------------------------------
+## License
+
+MIT License
+
+Copyright (c) 2024   **Fijabi J. Adekunle**
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
