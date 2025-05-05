@@ -1,5 +1,6 @@
 # Ship-Fuel-Consumption-And-CO2-Emission
  **Analysis of Fuel Consumption & CO2 Emissions of 4 ship types on Nigerian water ways**
+ [![Tanker-Ship.jpg](https://i.postimg.cc/SsRqsJ99/Tanker-Ship.jpg)](https://postimg.cc/PLg0Vf2f)
 
 ## Project Overview
 This project explores the fuel consumption and CO2 emissions of different types of ships operating in Nigerian waterways. It leverages a generated dataset and analytical methods to derive actionable insights into the fuel usage patterns and environmental impact of various ship types.
